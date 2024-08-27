@@ -48,7 +48,7 @@ body{
     height: 330px;
 }
 
-#input-texto{
+#input-texto, #output-text {
     width: 345px;
     height: 330px;
     font-size: 20px;
@@ -101,7 +101,7 @@ body{
     cursor: pointer;
 }
 
-.btn-corpiar{
+.btn-copiar{
     border: 2px solid var(--cortitulo);
     border-radius:  10px;
     text-decoration: none;
